@@ -1,5 +1,4 @@
 class Table_python:
-
     user_count: int = 0
     __username = "John Doe"
     __password = "1234"
